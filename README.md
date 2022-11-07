@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://mightyboar.github.io/mapa2/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1vrceXib82JMVCSEtxF2meBrecJquj6lAAtSA6p411lc/edit?usp=sharing
+- Google Sheets template https://docs.google.com/spreadsheets/d/1vrceXib82JMVCSEtxF2meBrecJquj6lAAtSA6p411lc/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
